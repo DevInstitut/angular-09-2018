@@ -187,7 +187,7 @@ import { MDBBootstrapModule } from 'angular-bootstrap-md';
     "top-collegues-front": {
      ...
       
-      "architect": {
+      "targets": {
         "build": {
           ...
           "options": {
