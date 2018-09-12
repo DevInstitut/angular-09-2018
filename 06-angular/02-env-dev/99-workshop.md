@@ -215,12 +215,6 @@ import { MDBBootstrapModule } from 'angular-bootstrap-md';
 
 ```
 
-* Compléter le fichier `tsconfig.json`
-
-```json
-"include": ["node_modules/angular-bootstrap-md/**/*.ts",  "src/**/*.ts"],
-```
-
 * Tester la modification en local
 
 ```
