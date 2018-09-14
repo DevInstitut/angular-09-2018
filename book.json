@@ -2,18 +2,11 @@
   "title": "Formation Angular",
   "author": "Rossi Oddet",
   "plugins": [
-    "auto-summary",
-    "github-edit"
+    "auto-summary"
   ],
   "ignores": [
     "_book",
     "node_modules",
     "sources"
-  ],
-  "pluginsConfig": {
-    "github-edit": {
-      "repo": "DevInstitut/angular-09-2018",
-      "branch": "master"
-    }
-  }
+  ]
 }
